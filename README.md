@@ -14,8 +14,8 @@
 
 ## Skills & Technologies
 
-- **Languages:** Python (研究用), C# (Unity)
-- **Game Dev:** Unity (2D)
+- **Languages:** Python, C#
+- **Game Dev:** Unity
 - **AI/ML:** ComfyUI
 
 ---
