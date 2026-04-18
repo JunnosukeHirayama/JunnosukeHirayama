@@ -12,11 +12,13 @@
 - **Master's Research:** AI画像生成における拡散モデルの数学的観点からの研究
 
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies(勉強しながら使用しているものも含む)
 
-- **Languages:** Python, C#
-- **Game Dev:** Unity
-- **AI/ML:** ComfyUI
+- **Languages:** Python, C#, JavaScript
+- **Machine Learning & Data Science:** NumPy, pandas, scikit-learn, Matplotlib
+- **Game Development:** Unity
+- **Web & UI Development:** Google Apps Script (GAS), Tkinter
+- **Generative AI & Tools:** ComfyUI, Flux
 
 ---
 
