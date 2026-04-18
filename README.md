@@ -33,6 +33,8 @@
 ### [ビットコイン自動取引システム(GMO Coin API連携 自動取引ボット)](https://github.com/JunnosukeHirayama/BTC_Automated_Trading_System)
 - **概要:** PythonとTkinterを用いて開発した、ビットコイン（BTC）の自動取引シミュレーターです。GMOコインのAPIからリアルタイムな板情報（Bid/Ask/LTP）を取得し、内部で計算したテクニカル指標（RSI、Z-Score、サポートライン）と組み合わせて自律的な売買判断を行います。 資産推移のリアルタイムグラフ描画や、Maker手数料（マイナス手数料）を考慮した損益計算ロジックを実装しています。
 
+### [Smile Detector (顔のランドマークを用いた笑顔推定モデル)](https://github.com/JunnosukeHirayama/Smile_Detector)
+- **概要:** 顔のランドマーク（15個のKeypoints座標）データのみを入力とし、対象者が笑顔であるか否かを判定する推論関数 `smile_predict` の実装です。高精度で高速な推論を実現するため、座標データに対する幾何学的な正規化処理と、ロジスティック回帰を用いたモデルを組み合わせたパイプラインを構築しました。
 ---
 
 ## Contact
