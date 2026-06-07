@@ -13,10 +13,10 @@
 
 ## 🛠️ Skills & Technologies(勉強しながら使用しているものも含む)
 
-- **Languages:** Python, C#, Next.js
+- **Languages:** Python, C#, JavaScript ,TypeScript,HTML,CSS
 - **Machine Learning & Data Science:** NumPy, pandas, scikit-learn, Matplotlib
 - **Game Development:** Unity
-- **Web & UI Development:** Google Apps Script (GAS), Tkinter, PostgreSQL,
+- **Web & UI Development:** Google Apps Script (GAS), Tkinter, PostgreSQL,BetterAuth
 - **Generative AI & Tools:** ComfyUI, Flux
 
 ---
