@@ -1,7 +1,7 @@
 # JunnosukeHirayama
 
 ### 自己紹介
-東京理科大学創域理工学研究科数理科学専攻の修士課程で解析学を専攻しています。大学院での研究は画像生成AIの拡散モデルについて数理的な視点で研究を行う予定です。プログラミング関係では大学での数値解析や、趣味でのアプリ開発、長期インターンシップでのエンジニア業務などを行っています。まだ扱っていないGoやRustなども今後は勉強し、引き続き様々なシステムを作り、理論的な深掘りとそれを形にする実装力の両立を目指しています。
+東京理科大学創域理工学研究科数理科学専攻の修士課程で解析学を専攻しています。大学院での研究は画像生成AIの拡散モデルにおける誤差の研究をしています。プログラミング関係では大学での数値解析や、趣味でのアプリ開発、長期インターンシップでのエンジニア業務などを行っています。まだ扱っていないGoやRustなども今後は勉強し、引き続き様々なシステムを作り、理論的な深掘りとそれを形にする実装力の両立を目指しています。
 
 ---
 ##  About Me
@@ -13,10 +13,10 @@
 
 ## 🛠️ Skills & Technologies(勉強しながら使用しているものも含む)
 
-- **Languages:** Python, C#, JavaScript ,TypeScript,HTML,CSS
+- **Languages:** Python, C#, JavaScript,TypeScript,HTML,CSS
 - **Machine Learning & Data Science:** NumPy, pandas, scikit-learn, Matplotlib
 - **Game Development:** Unity
-- **Web & UI Development:** Google Apps Script (GAS), Tkinter, PostgreSQL,BetterAuth
+- **Web & UI Development:** Next.js,Google Apps Script (GAS), Tkinter, PostgreSQL,BetterAuth
 - **Generative AI & Tools:** ComfyUI, Flux
 
 ---
