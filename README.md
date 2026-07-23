@@ -41,5 +41,9 @@
 - **概要:**「スーパーマリオ」のようなクラシックな2Dアクションゲームの操作感にインスパイアされ、Unityでゼロから開発した横スクロールアクションゲームです。 単なるジャンプアクションにとどまらず、手元に戻ってくる「ブーメラン」による遠距離攻撃や、HP・無敵時間を持つボス戦など、プレイヤーを飽きさせない拡張要素を実装しています。
 ---
 
+## 📝 Articles & Publications
+- [Better AuthとSupabase Authを1つのPostgreSQLで共存させた話](https://zenn.dev/ficilcom/articles/a35df7a4101474) - *Zenn (2026)*
+
+  
 ## Contact
 - Mail: [nosuke0504@gmail.com]
