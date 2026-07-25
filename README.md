@@ -16,7 +16,7 @@
 - **Languages:** Python, C#, JavaScript,TypeScript,HTML,CSS
 - **Machine Learning & Data Science:** NumPy, pandas, scikit-learn, Matplotlib
 - **Game Development:** Unity
-- **Web & UI Development:** Next.js,Google Apps Script (GAS), Tkinter, PostgreSQL,BetterAuth
+- **Web & UI Development:** Next.js,Google Apps Script (GAS), Tkinter, PostgreSQL,BetterAuth,DrizzleORM
 - **Generative AI & Tools:** ComfyUI, Flux
 
 ---
